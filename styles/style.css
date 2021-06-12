@@ -58,7 +58,7 @@ body {
   margin-right: .7rem; }
 
 .header {
-  background-image: linear-gradient(rgba(133, 125, 125, 0.37), rgba(153, 144, 144, 0.356)), url(../../../images/cat2.jpg);
+  background-image: linear-gradient(rgba(133, 125, 125, 0.37), rgba(153, 144, 144, 0.356)), url(../images/cat2.jpg);
   height: 100vh;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -224,7 +224,7 @@ body {
     display: flex; }
   .history__img--container {
     width: 50%;
-    background-image: url(../../../images/hist.jpg);
+    background-image: url(../images/hist.jpg);
     background-size: cover;
     margin-right: 2rem;
     clip-path: polygon(0 0, 100% 0, 70% 100%, 0 100%);
